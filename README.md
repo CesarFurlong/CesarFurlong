@@ -29,5 +29,5 @@ Talking about personal stuffs:
 
 ## Projects
 - [Online Store Sales Analysis](https://github.com/CesarFurlong/Online-Store-Sales-Analysis): Analysis of sales performance in a store. 
-- [COVID-19 Exploratory Analysis](https://github.com/CesarFurlong/Portfolio-Projects/blob/main/COVID-19%20Project%20-%20Data%20Exploration%20in%20SQL.sql): Exploratory Analysis worldwide COVID data.
+- [EDA COVID-19](https://github.com/CesarFurlong/Portfolio-Projects/blob/main/COVID-19%20Project%20-%20Data%20Exploration%20in%20SQL.sql): Exploratory analysis of data about COVID-19.
 - [Tableau Profile](https://public.tableau.com/app/profile/cesarfurlong): Check it out my Tableau profile.
