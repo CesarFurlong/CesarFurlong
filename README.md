@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Talking about personal stuffs:
 - ⚡ Graduate from Instituto Tecnológico de Ciudad Madero
 - 🌱 Bachelors Degree of Chemical Enginnering
-- 🔭 My hobbies are do excercise and 
+- 🔭 My hobbies are do excercise and learn new things!
 - 🤯 I have a passion for problem solving and learn new things
 - 💬 If you have any quesions, feel free to ask me
 - 📫 cesar.furlong97@gmail.com 
