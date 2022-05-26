@@ -28,6 +28,6 @@ Talking about personal stuffs:
 - 📫 cesar.furlong97@gmail.com 
 
 ## Projects
-- [Online Business Sales Analysis](https://github.com/CesarFurlong/Online-Business-Sales-Analysis): Analysis of sales performance in a store using SQL. 
-- [EDA COVID-19](https://github.com/CesarFurlong/Portfolio-Projects/blob/main/COVID-19%20Project%20-%20Data%20Exploration%20in%20SQL.sql): Exploratory analysis of data about COVID-19.
+- [Online Business Sales Analysis](https://github.com/CesarFurlong/Online-Business-Sales-Analysis): Analysis of sales performance in a store using SQL to identify any potential areas of opportunity and developed recommendations to increase sales. 
+- [EDA COVID-19](https://github.com/CesarFurlong/Portfolio-Projects/blob/main/COVID-19%20Project%20-%20Data%20Exploration%20in%20SQL.sql):  Data Analysis of COVID data using SQL to identify the factors that might be affecting the spread of the virus across different countries, and to identify the regions most in need of help.
 - [Tableau Profile](https://public.tableau.com/app/profile/cesarfurlong): Check it out my Tableau profile.
